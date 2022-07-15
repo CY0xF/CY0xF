@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @CY0xF
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Blockchain, Security and Finances
+- 📫 How to reach me team@cynegetic.io
 
-<!---
-CY0xF/CY0xF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CY0xF&theme=dark)](https://git.io/streak-stats)
+
+💖🚀 Support our project @CynegeticIO
