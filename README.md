@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CY0xF
+- 👋 Hi, I’m @CY0xF Dev Support @a16z
 - 👀 I’m interested in Blockchain, Security and Finances
 - 📫 How to reach me team@cynegetic.io
 
